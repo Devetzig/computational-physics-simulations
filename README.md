@@ -10,5 +10,5 @@ This repository contains a collection of computational physics simulations imple
 Georgia Maria Devetzi
 
 Email: devetzig@gmail.com
-LinkedIn: in/devetzig
-GitHub: devetzig
+LinkedIn: https://www.linkedin.com/in/devetzig/
+GitHub: https://github.com/Devetzig
