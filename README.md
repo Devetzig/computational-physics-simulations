@@ -5,3 +5,10 @@
 
 ## Project Overview
 This repository contains a collection of computational physics simulations implemented primarily in C, focusing on numerical methods, algorithmic problem-solving, and scientific programming.
+
+## Author
+Georgia Maria Devetzi
+
+Email: devetzig@gmail.com
+LinkedIn: in/devetzig
+GitHub: devetzig
